@@ -1,6 +1,6 @@
 
 # Project Title
-# 🚀 CryptoTracker API
+# 🚀 Koinx API
 
 Keeping an eye on the crypto market has never been easier! This Node.js application fetches and serves up-to-date cryptocurrency data for Bitcoin, Ethereum, and Matic.
 
